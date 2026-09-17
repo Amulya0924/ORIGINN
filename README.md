@@ -321,6 +321,6 @@ To maintain technical credibility during evaluation, the current implementation 
 <div align="center">
 
 **Smart India Hackathon 2026 — Problem Statement SIH26143**  
-*Team TECH6 | Space Technology Theme*
+*Team TECH6 | Disaster Management Theme*
 
 </div>
