@@ -1,0 +1,28 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Data & Output Artifacts (Keep sample data)
+data/raw/
+data/processed/
+data/output/
+*.tif
+*.png
+*.jpg
+!data/sample_ais.csv
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets & Credentials Store
+data/users.json
+.env
