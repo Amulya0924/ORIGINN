@@ -1,4 +1,4 @@
-# ORIGEN — Intelligent Marine Oil Spill Detection & Vessel Attribution
+# ORIGIN — Intelligent Marine Oil Spill Detection & Vessel Attribution
 
 <div align="center">
 
@@ -13,12 +13,6 @@
 *Automated SAR Satellite Slick Detection, Vector Drift Origin Hindcasting, AIS Transponder Blackout Analysis, and Counterfactual Source Replay Simulation.*
 
 </div>
-
----
-
-> [!IMPORTANT]
-> **Prototype & Proof-of-Concept Notice**  
-> ORIGEN is an experimental prototype and proof-of-concept developed for **Smart India Hackathon 2026 (Problem Statement ID: SIH26143)**. It demonstrates an end-to-end technical pipeline connecting Synthetic Aperture Radar (SAR) imagery processing, geometric slick fingerprinting, vector drift trajectory modeling, historical AIS vessel correlation, and downloadable investigation packages.
 
 ---
 
