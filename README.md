@@ -4,7 +4,7 @@
 
 [![SIH 2026](https://img.shields.io/badge/Smart%20India%20Hackathon-2026-blue.svg)](https://sih.gov.in/)
 [![Problem Statement](https://img.shields.io/badge/Problem%20Statement-SIH26143-orange.svg)](https://sih.gov.in/)
-[![Theme](https://img.shields.io/badge/Theme-Space%20Technology-purple.svg)]()
+[![Theme](https://img.shields.io/badge/Theme-Disaster%20Management-purple.svg)]()
 [![Category](https://img.shields.io/badge/Category-Software-green.svg)]()
 [![Status](https://img.shields.io/badge/Status-Prototype%20%2F%20PoC-yellow.svg)]()
 
